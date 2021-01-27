@@ -1,0 +1,7 @@
+{
+  "name": "bugsfree",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
